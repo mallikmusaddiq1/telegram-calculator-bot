@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, CallbackQueryHandler, CommandHandle
 import math
 import random
 
-BOT_TOKEN = "8055706721:AAFUrEg5CnucOMXLlZGPEbOcFejwGfiz6i0"
+BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
 
 user_inputs = {}
 
